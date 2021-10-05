@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "db1b7a38873d0acfb7c8",
+    "revision": "5a84b3d8afce4386f187",
     "url": "/Urdu_Subtraction_CountingObjects/static/css/main.bb587c57.chunk.css"
   },
   {
-    "revision": "db1b7a38873d0acfb7c8",
-    "url": "/Urdu_Subtraction_CountingObjects/static/js/main.a3273c9a.chunk.js"
+    "revision": "5a84b3d8afce4386f187",
+    "url": "/Urdu_Subtraction_CountingObjects/static/js/main.04927f2b.chunk.js"
   },
   {
-    "revision": "e5e9fea7d24dcf524703",
-    "url": "/Urdu_Subtraction_CountingObjects/static/js/runtime~main.e7839778.js"
+    "revision": "9dee68d58e6636e7c396",
+    "url": "/Urdu_Subtraction_CountingObjects/static/js/runtime~main.4704482e.js"
   },
   {
-    "revision": "2ca6f1939e09c7b575e1",
+    "revision": "ca1edd8c27ea67d39fdf",
     "url": "/Urdu_Subtraction_CountingObjects/static/css/2.391cbf61.chunk.css"
   },
   {
-    "revision": "2ca6f1939e09c7b575e1",
-    "url": "/Urdu_Subtraction_CountingObjects/static/js/2.ae39fe24.chunk.js"
+    "revision": "ca1edd8c27ea67d39fdf",
+    "url": "/Urdu_Subtraction_CountingObjects/static/js/2.991ef10c.chunk.js"
   },
   {
-    "revision": "f0fad205a64bf114ea96",
-    "url": "/Urdu_Subtraction_CountingObjects/static/js/3.1adaacc5.chunk.js"
+    "revision": "cb2803db2e4bd086feba",
+    "url": "/Urdu_Subtraction_CountingObjects/static/js/3.efcad361.chunk.js"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -72,6 +72,14 @@ self.__precacheManifest = [
     "url": "/Urdu_Subtraction_CountingObjects/static/media/rooster.7890a5da.png"
   },
   {
+    "revision": "7360a269fa89ec8922a9fb9354820523",
+    "url": "/Urdu_Subtraction_CountingObjects/static/media/sound.7360a269.png"
+  },
+  {
+    "revision": "6d3e6e31968de6abd43c75375d97964a",
+    "url": "/Urdu_Subtraction_CountingObjects/static/media/ca.6d3e6e31.mp3"
+  },
+  {
     "revision": "cabc22c6e80bc043c10b098b6b8854bb",
     "url": "/Urdu_Subtraction_CountingObjects/static/media/bowl.cabc22c6.png"
   },
@@ -96,7 +104,15 @@ self.__precacheManifest = [
     "url": "/Urdu_Subtraction_CountingObjects/static/media/background2.612faa13.gif"
   },
   {
-    "revision": "63f5692ecae6208af67d9ca5d2f3ff97",
+    "revision": "a0d6b13874a29393b0f8252f2adb5fa7",
+    "url": "/Urdu_Subtraction_CountingObjects/static/media/grocerySound.a0d6b138.mp3"
+  },
+  {
+    "revision": "f02ac89a44b28acd80cb6b0399adbf8f",
+    "url": "/Urdu_Subtraction_CountingObjects/static/media/mute.f02ac89a.png"
+  },
+  {
+    "revision": "2bf8e5912ec855869a0b9b37e684c193",
     "url": "/Urdu_Subtraction_CountingObjects/index.html"
   }
 ];

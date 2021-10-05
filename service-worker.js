@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Urdu_Subtraction_CountingObjects/precache-manifest.21e530f8098ef22edae96996f41cc6ae.js"
+  "/Urdu_Subtraction_CountingObjects/precache-manifest.7ffcbc4c1d2773dd0eb5182dc88b8535.js"
 );
 
 workbox.clientsClaim();
