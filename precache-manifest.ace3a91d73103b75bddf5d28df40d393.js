@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c43d0a6be510516993ee",
-    "url": "/Urdu_Subtraction_CountingObjects/static/css/main.bb587c57.chunk.css"
+    "revision": "8174c6a890149ba9770d",
+    "url": "/Urdu_Subtraction_CountingObjects/static/css/main.2914346c.chunk.css"
   },
   {
-    "revision": "c43d0a6be510516993ee",
-    "url": "/Urdu_Subtraction_CountingObjects/static/js/main.af0e1904.chunk.js"
+    "revision": "8174c6a890149ba9770d",
+    "url": "/Urdu_Subtraction_CountingObjects/static/js/main.6502001e.chunk.js"
   },
   {
     "revision": "9dee68d58e6636e7c396",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/Urdu_Subtraction_CountingObjects/static/media/mute.f02ac89a.png"
   },
   {
-    "revision": "c4afbffef880979713456f4c0e5dad1e",
+    "revision": "05662beab8be32404ec3e3eff32c8d88",
     "url": "/Urdu_Subtraction_CountingObjects/index.html"
   }
 ];
