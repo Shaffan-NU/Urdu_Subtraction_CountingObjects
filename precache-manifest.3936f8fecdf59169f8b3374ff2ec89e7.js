@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "8174c6a890149ba9770d",
-    "url": "/Urdu_Subtraction_CountingObjects/static/css/main.2914346c.chunk.css"
+    "revision": "e4407a8a81f12ae29083",
+    "url": "/Urdu_Subtraction_CountingObjects/static/css/main.ce1eb6b2.chunk.css"
   },
   {
-    "revision": "8174c6a890149ba9770d",
-    "url": "/Urdu_Subtraction_CountingObjects/static/js/main.6502001e.chunk.js"
+    "revision": "e4407a8a81f12ae29083",
+    "url": "/Urdu_Subtraction_CountingObjects/static/js/main.aa09ba83.chunk.js"
   },
   {
-    "revision": "9dee68d58e6636e7c396",
-    "url": "/Urdu_Subtraction_CountingObjects/static/js/runtime~main.4704482e.js"
+    "revision": "8371b0f8aaa5bf2f0bab",
+    "url": "/Urdu_Subtraction_CountingObjects/static/js/runtime~main.911fba3d.js"
   },
   {
-    "revision": "ca1edd8c27ea67d39fdf",
+    "revision": "1125bc29990ba5930c8e",
     "url": "/Urdu_Subtraction_CountingObjects/static/css/2.391cbf61.chunk.css"
   },
   {
-    "revision": "ca1edd8c27ea67d39fdf",
-    "url": "/Urdu_Subtraction_CountingObjects/static/js/2.991ef10c.chunk.js"
+    "revision": "1125bc29990ba5930c8e",
+    "url": "/Urdu_Subtraction_CountingObjects/static/js/2.2141538c.chunk.js"
   },
   {
-    "revision": "cb2803db2e4bd086feba",
-    "url": "/Urdu_Subtraction_CountingObjects/static/js/3.efcad361.chunk.js"
+    "revision": "76deaddc7353ac5a7622",
+    "url": "/Urdu_Subtraction_CountingObjects/static/js/3.9d4a091a.chunk.js"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -68,16 +68,32 @@ self.__precacheManifest = [
     "url": "/Urdu_Subtraction_CountingObjects/static/media/removeItem.91412d06.mp3"
   },
   {
-    "revision": "7890a5da3912ba0d306d379bc66c77f3",
-    "url": "/Urdu_Subtraction_CountingObjects/static/media/rooster.7890a5da.png"
+    "revision": "2fd9ac2208c833754484473decfc84a1",
+    "url": "/Urdu_Subtraction_CountingObjects/static/media/drop.2fd9ac22.wav"
+  },
+  {
+    "revision": "74562e5d9b36cc740a89848ba488bf7d",
+    "url": "/Urdu_Subtraction_CountingObjects/static/media/rooster.74562e5d.png"
   },
   {
     "revision": "7360a269fa89ec8922a9fb9354820523",
     "url": "/Urdu_Subtraction_CountingObjects/static/media/sound.7360a269.png"
   },
   {
-    "revision": "6d3e6e31968de6abd43c75375d97964a",
-    "url": "/Urdu_Subtraction_CountingObjects/static/media/ca.6d3e6e31.mp3"
+    "revision": "1e695820a1572347f6a0a76f53280775",
+    "url": "/Urdu_Subtraction_CountingObjects/static/media/tostartpressbutton.1e695820.mp3"
+  },
+  {
+    "revision": "b8fca396c389eea881872cc7f0e7855b",
+    "url": "/Urdu_Subtraction_CountingObjects/static/media/321go.b8fca396.mp3"
+  },
+  {
+    "revision": "88e8a851b1954501951ae45cf46c1e2f",
+    "url": "/Urdu_Subtraction_CountingObjects/static/media/rightAnswer.88e8a851.mp3"
+  },
+  {
+    "revision": "48b32efb6257ce0ee9f40b87b5894871",
+    "url": "/Urdu_Subtraction_CountingObjects/static/media/wrongAnswer.48b32efb.mp3"
   },
   {
     "revision": "cabc22c6e80bc043c10b098b6b8854bb",
@@ -112,7 +128,7 @@ self.__precacheManifest = [
     "url": "/Urdu_Subtraction_CountingObjects/static/media/mute.f02ac89a.png"
   },
   {
-    "revision": "05662beab8be32404ec3e3eff32c8d88",
+    "revision": "b206633b0c7392a9148e3a28daf779d5",
     "url": "/Urdu_Subtraction_CountingObjects/index.html"
   }
 ];
